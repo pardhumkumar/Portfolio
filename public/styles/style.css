@@ -70,6 +70,13 @@ margin: 90px 0 20px 0;
     padding: 5px;
     border: 1px solid rgb(0,0,0,.1);
 }
+.box3 p{
+    width:92%;
+    position: relative;
+    left:50%;
+    transform:translate(-50%);
+    text-align: justify;
+}
 .service_state{
     margin-left: 25px!important ;
     margin-right: 25px !important;
